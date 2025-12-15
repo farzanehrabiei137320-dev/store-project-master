@@ -1,0 +1,16 @@
+`html
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>فروشگاه من</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 50px; }
+    h1 { color: #2c3e50; }
+  </style>
+</head>
+<body>
+  <h1>به فروشگاه من خوش آمدید!</h1>
+  <p>این یک صفحه‌ی تستی برای GitHub Pages است.</p>
+</body>
+</html>
